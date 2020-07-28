@@ -1,17 +1,70 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "pic": {
-    "name" : "fuck"
-  }
+	"district" : [
+		{ "id" : 1, "title" : "Kowloon"},
+		{ "id" : 2, "title" : "Hong Kong Island"},
+		{ "id" : 3, "title" : "New Territories"},
+		{ "id" : 4, "title" : "Island District"}
+	],
+	
+	"location":[
+		{"id" : 1, "districtId": 4, "title": "Peng Chau"},
+		{"id" : 2, "districtId": 4, "title": "Lammar Island"},
+		{"id" : 3, "districtId": 4, "title": "Tai O"},
+		{"id" : 4, "districtId": 4, "title": "Tap Mun"}
+	],
+	
+	"plant":[
+		{"id" : 1, "title": "ROSE1", "wikiId": 1},
+		{"id" : 2, "title": "ROSE2", "wikiId": 2},
+		{"id" : 3, "title": "ROSE3", "wikiId": 3},
+		{"id" : 4, "title": "ROSE4", "wikiId": 4},
+		{"id" : 5, "title": "ROSE5", "wikiId": 5},
+	],
+	
+	"animal": [
+		{"id" : 1, "title": "animal1", "wikiId": 6},
+		{"id" : 2, "title": "animal2", "wikiId": 7},
+		{"id" : 3, "title": "animal3", "wikiId": 8},
+		{"id" : 4, "title": "animal4", "wikiId": 9},
+		{"id" : 5, "title": "animal5", "wikiId": 10},
+	],
+	
+	"geography":[
+		{"id" : 1, "title": "geography1", "wikiId": 11},
+		{"id" : 2, "title": "geography2", "wikiId": 12},
+		{"id" : 3, "title": "geography", "wikiId": 13},
+		{"id" : 4, "title": "geography4", "wikiId": 14},
+		{"id" : 5, "title": "geography5", "wikiId": 15},
+	],
+	
+	"hiking":[
+		{"id" : 1, "title": "hiking1", "wikiId": 11},
+		{"id" : 2, "title": "hiking2", "wikiId": 12},
+		{"id" : 3, "title": "hiking3", "wikiId": 13},
+		{"id" : 4, "title": "hiking4", "wikiId": 14},
+		{"id" : 5, "title": "hiking5", "wikiId": 15},
+	],
+	
+	"albums":[
+	    {"id": 1,"title": "plant albums"},
+		{"id": 2,"title": "animal albums"},
+		{"id": 3,"title": "geography albums"},
+		{"id": 4,"title": "hiking albums"},
+    ],
+	
+	"photos":[
+		{"id" : 1, "title": "Kowloon", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 1}
+		{"id" : 2, "title": "Hong Kong Island", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 2}
+		{"id" : 3, "title": "New Territories", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 3}
+		{"id" : 4, "title": "Island District", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 4}
+		{"id" : 5, "title": "Peng Chau", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "locationId" : 1}
+		{"id" : 6, "title": "Lammar Island", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "locationId" : 2}
+		{"id" : 7, "title": "Tai O", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "locationId" : 3}
+		{"id" : 8, "title": "Tap Mun", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "locationId" : 4}
+		{"id" : 9, "title": "ROSE1", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 1}
+		{"id" : 10, "title": "ROSE2", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 2}
+		{"id" : 11, "title": "ROSE3", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 3}
+		{"id" : 12, "title": "ROSE4", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 4}
+		{"id" : 13, "title": "ROSE5", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 5}
+	]
 }
