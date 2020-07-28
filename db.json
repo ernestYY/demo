@@ -50,5 +50,11 @@
 		{"id": 2,"title": "animal albums"},
 		{"id": 3,"title": "geography albums"},
 		{"id": 4,"title": "hiking albums"}
-    	]
+    	],
+	"photos": [
+		{"id" : 1, "title": "Kowloon", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 1},
+		{"id" : 2, "title": "Hong Kong Island", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 2},
+		{"id" : 3, "title": "New Territories", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 3},
+		{"id" : 4, "title": "Island District", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 4}
+	]
 }
