@@ -26,5 +26,14 @@
 		{"id" : 2, "title": "Hong Kong Island", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 2},
 		{"id" : 3, "title": "New Territories", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 3},
 		{"id" : 4, "title": "Island District", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "districtId" : 4}
+		{"id" : 5, "title": "Peng Chau", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "locationId" : 1},
+		{"id" : 6, "title": "Lammar Island", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "locationId" : 2},
+		{"id" : 7, "title": "Tai O", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "locationId" : 3},
+		{"id" : 8, "title": "Tap Mun", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "locationId" : 4},
+		{"id" : 9, "title": "ROSE1", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 1},
+		{"id" : 10, "title": "ROSE2", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 2},
+		{"id" : 11, "title": "ROSE3", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 3},
+		{"id" : 12, "title": "ROSE4", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 4},
+		{"id" : 13, "title": "ROSE5", "url": "https://via.placeholder.com/600/24f355", "thumbnailUrl": "https://via.placeholder.com/150/24f355", "plantId" : 5}	
 	]
 }
